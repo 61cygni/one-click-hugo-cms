@@ -7,8 +7,9 @@ intro:
   blurbs:
     - image: /img/baicells-outdoor-base-station-novar9-402-angled.jpg
       text: >
-        2.5 Ghz 10W Base Station :
-        http://www.doubleradius.com/site/stores/baicells/baicells-nova-r9-10w-datasheet.pdf
+        <a
+        href="http://www.doubleradius.com/site/stores/baicells/baicells-nova-r9-10w-datasheet.pdf">2.5
+        Ghz 10W Base Station</a>
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -29,12 +30,10 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Links to Parts
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Here we try and keep an up to date list of all the parts we use when setting
+    up cell networks. 
 main:
   heading: Great coffee with no compromises
   description: >
